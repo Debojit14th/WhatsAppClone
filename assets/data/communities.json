@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "name": "Photography Enthusiasts",
+      "img": "https://i.pravatar.cc/150?u=photography",
+      "desc": "A community for photography lovers."
+    },
+    {
+      "id": 2,
+      "name": "Tech Innovators",
+      "img": "https://i.pravatar.cc/150?u=techinnovators",
+      "desc": "Discuss the latest in tech."
+    },
+    {
+      "id": 3,
+      "name": "Fitness Freaks",
+      "img": "https://i.pravatar.cc/150?u=fitnessfreaks",
+      "desc": "A group for fitness enthusiasts."
+    }
+  ]
